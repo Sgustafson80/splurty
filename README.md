@@ -1,24 +1,19 @@
-# README
+# Splurty
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Splurty is a quote generator. Anyone can enter a quote along with the author's name and the application will randomly display one of the quotes. 
 
-Things you may want to cover:
+## How to Run Splurty
 
-* Ruby version
+You can run splurty in your browser at: https://splurty-sarah-gustafson.herokuapp.com/
 
-* System dependencies
+## Built With
 
-* Configuration
+Splurty was built with HTML5, CSS, Ruby version 2.5.3 on Rails version 5.2.1. PostgreSQL was used for database management. Splurty is launched on Heroku
 
-* Database creation
+## Author
 
-* Database initialization
+Splurty was coded by Sarah E. Gustafson.
 
-* How to run the test suite
+## Acknowledgements
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Splurty was coded under the instruction of Vanderbilt Univeristy Online Coding Bootcamp.
